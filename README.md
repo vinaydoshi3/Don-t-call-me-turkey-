@@ -1,4 +1,4 @@
-# Don't-call-me-turkey-
+# Don't-call-me-turkey
 Find the turkey in the sound bite
 
 # Data Description
